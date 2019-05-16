@@ -1,0 +1,5 @@
+k = PyKeyboard()    
+# pressing a key
+k.press_key('H')
+# which you then follow with a release of the key
+k.release_key('H')
